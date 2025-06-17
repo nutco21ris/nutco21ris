@@ -1,8 +1,7 @@
-<h1 align="center">Hello! I'm Iris 👋</h1>
+# Hello! This is Iris 👋
 
-<p align="center">
-  <em>Full-Stack Data Scientist | AI Engineer | Product Manager </em>
-</p>
+#### Full-Stack Data Scientist | AI Engineer
+I’m a data-driven problem solver with hands-on experience in machine learning, data engineering, deep learning, and generative AI. My background spans marketplace analytics, investment decision-making, and AI product development. I’m currently based between the Bay Area and New York, and I enjoy building scalable, cloud-based systems that not only improve technical performance but also drive real business impact. I work best at the intersection of data, product, and strategy—translating messy problems into actionable, measurable solutions.
 
 ---
 
