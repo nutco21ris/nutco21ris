@@ -7,9 +7,9 @@ I’m a data-driven problem solver with hands-on experience in machine learning,
 
 ### 🎓 Education
 
--  MS in Data Science @ University of San Francisco(2024 - 2025)
--  MPA in Impact Investment @ New York University(2022 - 2024)
--  BS in Economics @ Nanjing Agricultural University(2018 - 2022)
+-  MS in Data Science @ [University of San Francisco](https://www.usfca.edu/arts-sciences/programs/graduate/data-science), 2024 - 2025
+-  MPA in Impact Investment @ [New York University](https://wagner.nyu.edu/), 2022 - 2024
+-  BS in Economics @ [Nanjing Agricultural University](https://english.njau.edu.cn/mainm.htm), 2018 - 2022
 
 ---
 
