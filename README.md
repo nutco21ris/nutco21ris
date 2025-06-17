@@ -22,11 +22,14 @@ I’m a data-driven problem solver with hands-on experience in machine learning,
 ---
 
 ### 🍴 Project
-#### Prediction
+-
+### Prediction
 
-#### Big Data & Cloud 
+-
+### Big Data & Cloud 
 
-#### A/B Testing
+-
+### A/B Testing
 
 
 
