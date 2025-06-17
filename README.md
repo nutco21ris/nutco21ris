@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Iris 👋</h1>
 
 <p align="center">
-  <em>Full-Stack Data Scientist | AI Engineer | Product Manager 💻📊💡</em>
+  <em>Full-Stack Data Scientist | AI Engineer | Product Manager </em>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🎓 Education
 
 -  MS in Data Science @ University of San Francisco(2024 - 2025)
--  MPA, Impact Investment @ New York University(2022 - 2024)
+-  MPA in Impact Investment @ New York University(2022 - 2024)
 -  BS in Economics @ Nanjing Agricultural University(2018 - 2022)
 
 ---
