@@ -22,21 +22,16 @@ Hey there! I'm Iris, a full-stack data scientist with 2+ years of experience tur
 ---
 
 ### 🍴 Project
----
-### AI Application
 
+### AI Application
 - [AI Review Assistant](https://github.com/nutco21ris/ai-review-assistant): Developed AI-powered review analysis assistant integrating OpenAI API for automated batch processing of 50K+ multilingual reviews, deployed via Streamlit with user-friendly interface to provide real-time insights for product marketing strategies.[Report](https://www.datascienceportfol.io/nutco21ris/projects/0)
 
----
 ### Prediction
-
 - [Nurse Stress Prediction](https://github.com/nutco21ris/nurse-stress-prediction): Developed a wearable device-based nurse stress prediction system during COVID-19, processing 11M physiological data points through multi-model ensemble to achieve 91% accuracy, providing data-driven solutions for healthcare worker wellness management.[Report](https://www.datascienceportfol.io/nutco21ris/projects/2)
 
 ---
 
----
 ### Recommendation System
-
 -  [San Francisco Smart HomeFinder](https://github.com/nutco21ris/virtual-housing-agent): Built modular Airflow pipeline to process 500K+ SF rental listings daily into GCP and MongoDB Atlas, developed content-based neural network generating Top10 personalized recommendations per search.[Report](https://www.datascienceportfol.io/nutco21ris/projects/1) [Demo](https://virtual-housing-agent-sf-nutco21ris.streamlit.app/)
 
 
