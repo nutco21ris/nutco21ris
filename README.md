@@ -31,7 +31,8 @@ Hey there! I'm Iris, a full-stack data scientist with 2+ years of experience tur
 - [AI Review Assistant](https://github.com/nutco21ris/ai-review-assistant): Developed AI-powered review analysis assistant integrating OpenAI API for automated batch processing of 50K+ multilingual reviews, deployed via Streamlit with user-friendly interface to provide real-time insights for product marketing strategies.[Report](https://www.datascienceportfol.io/nutco21ris/projects/0)
 
 ### Prediction
-- [Nurse Stress Prediction](https://github.com/nutco21ris/nurse-stress-prediction): A wearable device-based nurse stress prediction system, processing 11M+ physiological data points through multi-model ensemble to achieve 91% accuracy, providing data-driven solutions for healthcare worker wellness management.[Report](https://www.datascienceportfol.io/nutco21ris/projects/2) 
+- [Nurse Stress Prediction](https://github.com/nutco21ris/nurse-stress-prediction): A wearable device-based nurse stress prediction system, processing 11M+ physiological data points through multi-model ensemble to achieve 91% accuracy, providing data-driven solutions for healthcare worker wellness management.
+  - [Machine Learning Pipeline + Analysis](https://www.datascienceportfol.io/nutco21ris/projects/2) 
   - AutoML version forked from the old system(forking...)
   - Metaflow+Mlflow+K8s(forking...)
 
