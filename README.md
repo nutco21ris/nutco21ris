@@ -3,6 +3,10 @@
 #### Full-Stack Data Scientist | AI Engineer
 Hey there! I'm Iris, a full-stack data scientist with 2+ years of experience turning data into real business value. I love diving deep into machine learning, data engineering, and generative AI—basically anything that involves making sense of complex data. Currently splitting my time between the Bay Area and New York, I'm passionate about building solutions that don't just look good on paper but actually move the needle for businesses. My sweet spot 🍮 - is where data meets product strategy—taking messy, real-world problems and turning them into something actionable and measurable.
 
+#### Quick Facts 
+-  I'm a photographer!
+-  I love British rock music!
+
 ---
 
 ### 🎓 Education
@@ -27,17 +31,12 @@ Hey there! I'm Iris, a full-stack data scientist with 2+ years of experience tur
 - [AI Review Assistant](https://github.com/nutco21ris/ai-review-assistant): Developed AI-powered review analysis assistant integrating OpenAI API for automated batch processing of 50K+ multilingual reviews, deployed via Streamlit with user-friendly interface to provide real-time insights for product marketing strategies.[Report](https://www.datascienceportfol.io/nutco21ris/projects/0)
 
 ### Prediction
-- [Nurse Stress Prediction](https://github.com/nutco21ris/nurse-stress-prediction): Developed a wearable device-based nurse stress prediction system during COVID-19, processing 11M physiological data points through multi-model ensemble to achieve 91% accuracy, providing data-driven solutions for healthcare worker wellness management.[Report](https://www.datascienceportfol.io/nutco21ris/projects/2)
-
----
+- [Nurse Stress Prediction](https://github.com/nutco21ris/nurse-stress-prediction): A wearable device-based nurse stress prediction system, processing 11M+ physiological data points through multi-model ensemble to achieve 91% accuracy, providing data-driven solutions for healthcare worker wellness management.[Report](https://www.datascienceportfol.io/nutco21ris/projects/2) 
+  - AutoML version forked from the old system(forking...)
+  - Metaflow+Mlflow+K8s(forking...)
 
 ### Recommendation System
 -  [San Francisco Smart HomeFinder](https://github.com/nutco21ris/virtual-housing-agent): Built modular Airflow pipeline to process 500K+ SF rental listings daily into GCP and MongoDB Atlas, developed content-based neural network generating Top10 personalized recommendations per search.[Report](https://www.datascienceportfol.io/nutco21ris/projects/1) [Demo](https://virtual-housing-agent-sf-nutco21ris.streamlit.app/)
-
-
-### Big Data Engineering
-
-### A/B Testing
 
 
 
