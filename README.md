@@ -4,8 +4,8 @@
 Hey there! I'm Iris, a full-stack data scientist with 2+ years of experience turning data into real business value. I love diving deep into machine learning, data engineering, and generative AI—basically anything that involves making sense of complex data. Currently splitting my time between the Bay Area and New York, I'm passionate about building solutions that don't just look good on paper but actually move the needle for businesses. My sweet spot 🍮 - is where data meets product strategy—taking messy, real-world problems and turning them into something actionable and measurable.
 
 #### Quick Facts 
--  I'm a photographer!
--  I love British rock music!
+-  I'm a photographer! I have 5 polarid cameras. 
+-  I love British rock music and 90s R&B and HipHop. Very old-styled!
 
 ---
 
