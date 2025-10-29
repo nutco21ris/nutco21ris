@@ -18,10 +18,10 @@ Hey there! I'm Iris, a full-stack data scientist with 2+ years of experience tur
 ---
 
 ### 🤖 Experience
-- Full-Stack Data Scientist @ [Minty Living](https://mintyliving.com/)(2024 - Present)
-- Data Scientist @ [New York University Impact Investment Fund](https://www.niifonline.com/)(2023 - 2024)
-- Data Scientist Intern @ [MJHS Health System](https://www.mjhs.org/)(Summer 2023)
-- Data Analyst Intern @ [KPMG](https://kpmg.com/cn/en/home/careers/experienced-hires/kdc.html) (Summer 2022)
+- Data Scientist @ [Adobe](https://www.adobe.com/)(2025 - Present)
+- Data Scientist @ [The Data Institute](https://www.usfca.edu/data-institute)(2025 - Present)
+- Data Scientist @ [Minty Living](https://mintyliving.com/)(2024 - Present)
+- Data Scientist @ [MJHS Health System](https://www.mjhs.org/)(Summer 2023)
 - Data Analyst Intern @ [Nielsen](https://www.nielsen.com/) (Spring 2021)
 ---
 
